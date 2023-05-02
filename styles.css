@@ -167,3 +167,8 @@ main{
 .wait-til-8{
   display: block;
 }
+
+.no-top-margin{
+  margin-top: 0;
+  padding-top: 0;
+}
