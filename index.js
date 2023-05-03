@@ -3,7 +3,7 @@ const displayBlockedEl = document.querySelector('.wait-til-8')
 const displayShowEl = document.querySelector('.open-on-8')
 
 const countdown = () =>{
-  const countDate = new Date('May 5, 2023 00:00:00').getTime()
+  const countDate = new Date('May 8, 2023 00:00:00').getTime()
   const now = new Date().getTime()
   const gap = countDate - now
 
